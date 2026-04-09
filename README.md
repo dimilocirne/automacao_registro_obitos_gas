@@ -1,0 +1,1 @@
+# automacao_registro_obitos_gas
