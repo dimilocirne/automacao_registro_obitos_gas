@@ -43,4 +43,4 @@ Diferente de um Web Scraping convencional (que lê o HTML da página), este proj
 
 ---
 Desenvolvido por Dimilo Cirne.
-https://www.linkedin.com/in/dimilo-cirne-data-analytics/
+* https://www.linkedin.com/in/dimilo-cirne-data-analytics/ | https://github.com/dimilocirne
