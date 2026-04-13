@@ -28,6 +28,8 @@ Eliminar o processo manual de consulta, filtragem e exportação de dados mensai
 3. **Execução**:
    - Salve o projeto e execute a função `importarVariosMeses`.
    - Conceda as permissões de acesso ao Google Sheets e ao serviço externo (UrlFetch).
+4. **Configuração de Ética:""
+   - O código já inclui o comando `Utilities.sçeep(1000)` para garantir um consumo responsável dos dados públicos.
 
 ### 📌 Diferencial Técnico: Engenharia Reversa
 Diferente de um Web Scraping convencional (que lê o HTML da página), este projeto utiliza o consumo direto da API "invisível" do portal.
@@ -40,7 +42,9 @@ Diferente de um Web Scraping convencional (que lê o HTML da página), este proj
 ### ⚠️ Boas Práticas e Limites
 - O script possui uma pausa de 1 segundo entre as requisições para evitar sobrecarga no servidor da API.
 - Lembre-se que o Google Apps Script possui um limite de execução de 6 minutos por rodada para contas gratuitas.
+- **Endpoint:** `https://transparencia.registrocivil.org.br/api/record/death`
 
 ---
 Desenvolvido por Dimilo Cirne.
+* Sinta-se à vontade para se conectar comigo para trocarmos experiências.
 * https://www.linkedin.com/in/dimilo-cirne-data-analytics/ | https://github.com/dimilocirne
